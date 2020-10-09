@@ -1,0 +1,7 @@
+version: '2'
+services:
+  anonymouspaper987:
+    container_name: anonymouspaper987
+    image: anonymouspaper987/anonymouspaper987-docker:latest
+    stdin_open: true
+    tty: true
