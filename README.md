@@ -1,6 +1,6 @@
 # Supplementary Material
 
-This repository is the supplementary material to our paper submitted to EuroSys'21 (paper id: 104).
+This repository is the supplementary material to our paper submitted to USENIX Security '21 Winter (paper id: 205).
 We release a Docker image of 2 generated QEMU machines and 4 firmware used in our evaluation.
 
 ## Usage of Docker Image to Boot Kernels
